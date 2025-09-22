@@ -1,2 +1,4 @@
 # The-PeatPic-Project
 The PeatPic protocol and project photographs. Dataset includes a range of plot-scale photographs from 27 peatland sites in 10 countries around the world.
+
+Photographs and protocol included in Davidson, S.J., Malhotra, A., Jassey, V.E.J., Strack, M., Aitova, E., Anderson, R., Atkinson, R., Barel, J.M., Bird, M., Brehier, C., Donaldson-Selby, G., Duley, E., Eklof, J., de Eyto, E., Granath, G., Grant, A., Hartmann, A., Holland, A., Huth, V., Jones, C.P., Lee, S-C., Lopatin, J., Milner, A.M., Peacock, M., Peichl, M., Perez-Quezada, J.F., Perryman, C.R., Pickard, A., Rautakoski, H., Silvester, E., Virkkala, A-M. and Wegener, E. 2025. The PeatPic Project: Predicting plot-scale peatland green leaf phenology across global peatlands. Environmental Research Letters https://doi.org/10.1088/1748-9326/ae0658
